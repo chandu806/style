@@ -83,7 +83,7 @@ export const Home = () => {
         </div>
         <div className="flex">
           <img src="https://i.imgur.com/3rnGaNe.jpeg"></img>
-          <p>Morbidly interesting</p>
+          <p>Morbidly interestings</p>
 
         </div>
 
