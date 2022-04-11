@@ -58,7 +58,7 @@ export const Home = () => {
     <Wrapper className="wrapper">
       <div className="wrapper">
       <div>
-        <button className="next">Next --> </button>
+        <button className="next">Next -- </button>
       </div>
       <div className="button">
         <div className="flex">
